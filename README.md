@@ -1,4 +1,4 @@
-# NeoTerminal
+# Neo Terminal
 
 **NeoTerminal** is a Python-based file management application with a retro, Matrix-inspired terminal interface, built using PyQt5. It provides a secure, intuitive platform for managing files across four designated folders (`a`, `b`, `c`, `d`) in the `~/Documents/MyFiles` directory. Beyond basic file operations, NeoTerminal integrates web-based functionalities like image downloading and web search result storage, all within a password-protected, command-driven environment. Its unique blend of nostalgic aesthetics and modern functionality makes it a versatile tool for file management and web interaction, with significant potential for expansion.
 

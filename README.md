@@ -159,8 +159,7 @@ Contributions are welcome to enhance NeoTerminal’s functionality! To contribut
 - Adhere to PEP 8 for code style and include comments for clarity.
 - Test changes thoroughly to ensure compatibility across platforms.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ## Acknowledgments
 - **PyQt5**: For the cross-platform GUI framework [](https://www.riverbankcomputing.com/software/pyqt/).

@@ -170,7 +170,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For questions, suggestions, or issues:
 - Open an issue on GitHub.
-- Contact the maintainer at [your.email@example.com](mailto:your.email@example.com).
+- Contact the maintainer at [mokhtarinima56@gmail.com
+](mailto:mokhtarinima56@gmail.com
+).
 
 ---
 *Last updated: October 27, 2025*
